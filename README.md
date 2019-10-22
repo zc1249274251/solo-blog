@@ -10,6 +10,11 @@
 
 ### 最新
 
+* [2019年的50本书](https://www.fanyueba.com/articles/2019/10/22/1571707059161.html)
+* [2019年计划安排](https://www.fanyueba.com/articles/2019/10/22/1571704571318.html)
+* [国学经典之三字经篇](https://www.fanyueba.com/articles/2019/10/22/1571703429102.html)
+* [声律启蒙（上）](https://www.fanyueba.com/articles/2019/10/22/1571703056272.html)
+* [国学经典之千字文篇](https://www.fanyueba.com/articles/2019/10/22/1571702523129.html)
 * [面试篇](https://www.fanyueba.com/articles/2019/09/26/1569474286445.html)
 * [Linux查找命令](https://www.fanyueba.com/articles/2019/09/26/1569474023780.html)
 * [进制转换随笔](https://www.fanyueba.com/articles/2019/09/26/1569473708751.html)
