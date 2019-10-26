@@ -10,7 +10,6 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://www.fanyueba.com/my-github-repos)
 * [Docker常用操作](https://www.fanyueba.com/articles/2019/10/26/1572061889977.html)
 * [2019年的50本书](https://www.fanyueba.com/articles/2019/10/22/1571707059161.html)
 * [2019年计划安排](https://www.fanyueba.com/articles/2019/10/22/1571704571318.html)
