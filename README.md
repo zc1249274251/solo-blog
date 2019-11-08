@@ -2,7 +2,7 @@
 东篱南山
 </h2>
 
-<h4 align="center">不忘初心，方得始终</h4>
+<h4 align="center">采菊东篱下，悠然现南山</h4>
 <p align="center"><a title="东篱南山" target="_blank" href="https://github.com/zc1249274251/solo-blog"><img src="https://img.shields.io/github/last-commit/zc1249274251/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/zc1249274251/solo-blog"><img src="https://img.shields.io/github/repo-size/zc1249274251/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
